@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-10-13",
+  "institution": "University of Maryland Global Campus",
+  "program": "Computer Science",
+  "session": {
+    "term": "Fall 2026",
+    "name": "Undergraduate 8-Wk Session 3",
+    "start": "2026-10-14",
+    "end": "2026-12-08",
+    "source": "calendar"
+  },
+  "courses": [
+    {"code": "CMSC 105", "title": "Introduction to Programming in Python", "credits": 3, "source": "courses"},
+    {"code": "STAT 200", "title": "Introduction to Statistics", "credits": 3, "source": "courses"}
+  ],
+  "tuition": {
+    "category": "Out-of-state, standard undergraduate",
+    "per_credit": "499.00",
+    "technology_per_credit": "15.00",
+    "currency": "USD",
+    "source": "tuition"
+  },
+  "sources": {
+    "calendar": {
+      "url": "https://www.umgc.edu/admission/academic-calendar",
+      "verified_on": "2026-10-13",
+      "evidence": "Fall 2026: Undergraduate 8-Wk Session 3; October 14 - December 8, 2026; registration deadline October 13, 2026."
+    },
+    "courses": {
+      "url": "https://www.umgc.edu/online-degrees/bachelors/computer-science",
+      "verified_on": "2026-10-13",
+      "evidence": "Related Required Courses: Introduction to Programming in Python (3 Credits, CMSC 105); Introduction to Statistics (3 Credits, STAT 200). Requirements for the 2026-2027 academic year."
+    },
+    "tuition": {
+      "url": "https://www.umgc.edu/tuition-financial-assistance/tuition",
+      "verified_on": "2026-10-13",
+      "evidence": "Fall 2026 out-of-state standard undergraduate: $499 per credit. Technology fee: $15 per credit; exclusions include undergraduate military students and certain corporate agreements."
+    }
+  },
+  "assumptions": [
+    "Fictional US undergraduate profile; no actual enrollment or payment.",
+    "Two proposed courses, six credits; actual session availability and prerequisites are not verified.",
+    "Online asynchronous format is a design assumption, not a verified section meeting schedule.",
+    "Out-of-state civilian rate assumed; no military, corporate or other discount.",
+    "No application fee, materials, discounts or other unverified charges included.",
+    "Prototype card dates use the session dates and do not represent an issued credential."
+  ]
+}
